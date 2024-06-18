@@ -1,6 +1,6 @@
 # Here is a Sample Video of the Project.
 
-![Sample GIF](https://github.com/yourusername/yourrepository/raw/main/Login-SignUp.gif)
+![Sample GIF](https://github.com/ChamithDilshanTharuka/SignUp-Login-Page/blob/main/Login-SignUp.gif)
 
 # React + Vite
 
