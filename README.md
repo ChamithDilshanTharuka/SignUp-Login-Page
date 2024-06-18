@@ -1,9 +1,6 @@
 # Here is a Sample Video of the Project.
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/ChamithDilshanTharuka/SignUp-Login-Page/blob/main/Login-Sign Up.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Sample GIF](https://github.com/yourusername/yourrepository/raw/main/Login-SignUp.gif)
 
 # React + Vite
 
